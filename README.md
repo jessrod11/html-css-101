@@ -4,7 +4,7 @@
 Practice HTML and CSS by copying design from CSS Zen Garden. Focused on writing semantic HTML and having well organized CSS.
 
 ## Screenshot
-[Webpage](https://raw.githubusercontent.com/jessrod11/html-css-101/master/screenshots/screenshot.png)
+![Webpage](https://raw.githubusercontent.com/jessrod11/html-css-101/master/screenshots/screenshot.png)
 
 ## How to Run
 1. Clone down this repo and cd into project.
