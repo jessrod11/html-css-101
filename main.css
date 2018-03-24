@@ -12,6 +12,8 @@ body {
 .main-container {
     width: 60%;
     position: relative;
+    margin: 5%;
+   
 }
 
 .column-container {
